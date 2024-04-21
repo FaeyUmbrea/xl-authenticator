@@ -1,0 +1,28 @@
+{
+    "name": "Faey's Store",
+    "subtitle": "A source for apps I like",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://example.com/source_icon.png",
+    "headerURL": "https://example.com/source_header.png",
+    "website": "https://github.dev/FaeyUmbrea/xl-authenticator",
+    "tintColor": "#F54F32",
+    "apps": [
+        {
+            "name": "XL Authenticator",
+            "bundleIdentifier": "com.github.goaaats.xlauthenticator",
+            "developerName": "Goaaaats",
+            "subtitle": "Android/iOS OTP authenticator app for XIVLauncher built in Flutter",
+            "localizedDescription": "Android/iOS OTP authenticator app for XIVLauncher built in Flutter",
+            "iconURL": "https://github.com/goaaats/xl-authenticator/blob/47f084fb42f982957b39d293b64f0a219029499f/assets/logo.png",
+            "tintColor": "#F54F32",
+            "category": "utilities",
+            "versions": [
+                {
+                  "version": "1.0.5",
+                  "date": "2021-05-12",
+                  "localizedDescription": "Version 1.0.5",
+                  "downloadURL": "https://github.com/goaaats/xl-authenticator/releases/download/1.0.5/Payload.ipa"
+                }]
+        }
+    ]
+  }
